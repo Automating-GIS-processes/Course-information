@@ -51,9 +51,50 @@ to relevant questions, some related plots, and/or Python codes you have written 
 on the laboratory exercises, however the laboratory summary write-ups that you submit must be completed individually and must clearly reflect your own work.
 
 ## Course topics by week
-
-Topics for Period II will be announced later.
+ *Lecture content, readings and due dates are subject to change*
  
-Course topics for Period I (basics of Python) can be found from here: 
+**Period I**
  - [https://github.com/Python-for-geo-people/Course-information](https://github.com/Python-for-geo-people/Course-information)
+ 
+**Period II**
+
+**31.10** - Introduction to Python GIS
+- **Lesson** - [Lesson 1: ]()
+- **Assignment** - [Exercise 1: ]()
+- Readings 
+
+**7.11** - Working with (Geo)DataFrames 
+- **Lesson** - [Lesson 2: ]()
+- **Assignment** - [Exercise 2: ]()
+- Readings -
+
+**14.11** - Geometric operations and geocoding
+- **Lesson** - [Lesson 3: ]()
+- **Assignment** - [Exercise 3: ]()
+- Readings - 
+
+**21.11** - Spatial queries 
+- **Lesson** - [Lesson 4: ]()
+- **Assignment** - [Exercise 4: ]()
+- Readings - 
+
+**28.11** -  Visualization: static and interactive maps 
+- **Lesson** - [Lesson 5: ]()
+- **Assignment** - [Exercise 5: ]() 
+- *Introduction to the final assignment either on Monday or Thursday!*
+- Readings - 
+
+
+
+**5.12** - Raster data processing in Python
+- **Lesson** - [Lesson 6: ]()
+- **Assignment** - [Exercise 6: ]()
+- Readings - Lawhead pp. 158-161, Chapter 6 & Chapter 8
+
+**12.12** - Using ArcGIS trough Python (the Arcpy-module) 
+- **Lesson** - [Lesson 7: ]()
+- **Assignment** - [Exercise 7: ]()
+- Readings - 
+
+**xx.xx** - Deadline for the final assignment
  
