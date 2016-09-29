@@ -54,9 +54,10 @@ on the laboratory exercises, however the laboratory summary write-ups that you s
  *Lecture content, readings and due dates are subject to change*
  
 **Period I**
- - [https://github.com/Python-for-geo-people/Course-information](https://github.com/Python-for-geo-people/Course-information)
+ See: [https://github.com/Python-for-geo-people/Course-information](https://github.com/Python-for-geo-people/Course-information)
  
 **Period II**
+*links to lectures and exercises will be updated before each session*
 
 **31.10** - Introduction to Python GIS
 - **Lesson** - [Lesson 1: ]()
@@ -96,5 +97,5 @@ on the laboratory exercises, however the laboratory summary write-ups that you s
 - **Assignment** - [Exercise 7: ]()
 - Readings - 
 
-**xx.xx** - Deadline for the final assignment
+**XX.XX** - Deadline for the final assignment
  
