@@ -54,9 +54,11 @@ on the laboratory exercises, however the laboratory summary write-ups that you s
  *Lecture content, readings and due dates are subject to change*
  
 **Period I**
+ 
  See: [https://github.com/Python-for-geo-people/Course-information](https://github.com/Python-for-geo-people/Course-information)
  
 **Period II**
+
 *links to lectures and exercises will be updated before each session*
 
 **31.10** - Introduction to Python GIS
