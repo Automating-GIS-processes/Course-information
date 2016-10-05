@@ -1,3 +1,7 @@
+---
+anaconda-cloud: {}
+---
+
 # Automating GIS processes - Fall 2016
 
 ## Course meetings in Period II
@@ -34,16 +38,19 @@
 - Recommended textbooks (in order of relevance):
   - Zelle, J. (2010) [Python Programming: An Introduction to Computer Science](http://mcsp.wartburg.edu/zelle/python/ppics2/index.html), Second edition. Franklin, Beedle & Associates.
   - Lawhead, J. (2015) [Learning Geospatial Analysis with Python: An effective guide to geographic information systems and remote sensing analysis using Python 3](https://www.packtpub.com/application-development/learning-geospatial-analysis-python-second-edition), Second edition. Packt Publishing.
+  - McKinney, W. (2012) [Python for Data Analysis: Data wrangling with Pandas, NumPy and iPython](http://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1449319793), First edition. O´Reilly Media.
 - Optional textbooks:
   - Westra, E. (2016) [Python Geospatial Development: Develop sophisticated mapping applications from scratch using Python 3 tools for geospatial development](https://www.packtpub.com/application-development/python-geospatial-development-third-edition), Third edition. Packt Publishing.
   - Zandbergen, P. (2013) [Python Scripting for ArcGIS](https://www.amazon.com/Python-Scripting-ArcGIS-Paul-Zandbergen/dp/1589482824/ref=asap_bc?ie=UTF8), Alternate edition. ESRI press. **([Available from the library](https://helka.linneanet.fi/cgi-bin/Pwebrecon.cgi?Search_Arg=Python+scripting+for+ArcGIS&Search_Code=TALL&SL=None&PID=PNf7cMJlQOsRhdelSvtktIwh3_E04&SEQ=20160912155918&CNT=50&HIST=1&SEARCH_FROM_TITLES_PAGE=Y))**  
   - Diener, M. (2015) [Python Geospatial Analysis Cookbook: Over 60 recipes to work with topology, overlays, indoor routing, and web application analysis with Python](https://www.packtpub.com/big-data-and-business-intelligence/python-geospatial-analysis-cookbook). Packt Publishing.
+
+## GIS with 'pure' Python
   
 ## Course format
 
 The majority of this course will be spent in front of a computer learning to program in the Python language and working on exercises.
 During Teaching Period I, the Automating GIS processes and Introduction to Quantitative Geology courses will meet together and focus on 
-learning to program in Python. Previously, both these courses lacked sufficient time for students to properly learn the basic concepts of programming in Python. 
+learning to program in Python. Previously, both these courses lacked sufficient time for students to properly learn the basic concepts of programming in Python.
 
 The computer exercises will focus on developing basic programming skills using the Python language and applying those skills to various GIS related problems. 
 Typical exercises will involve a brief introduction followed by topical computer-based tasks. At the end of the exercises, you may be asked to submit answers 
@@ -56,4 +63,3 @@ Topics for Period II will be announced later.
  
 Course topics for Period I (basics of Python) can be found from here: 
  - [https://github.com/Python-for-geo-people/Course-information](https://github.com/Python-for-geo-people/Course-information)
- 
