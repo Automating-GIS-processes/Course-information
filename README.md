@@ -1,7 +1,3 @@
----
-anaconda-cloud: {}
----
-
 # Automating GIS processes - Fall 2016
 
 ## Course meetings in Period II
@@ -43,8 +39,6 @@ anaconda-cloud: {}
   - Westra, E. (2016) [Python Geospatial Development: Develop sophisticated mapping applications from scratch using Python 3 tools for geospatial development](https://www.packtpub.com/application-development/python-geospatial-development-third-edition), Third edition. Packt Publishing.
   - Zandbergen, P. (2013) [Python Scripting for ArcGIS](https://www.amazon.com/Python-Scripting-ArcGIS-Paul-Zandbergen/dp/1589482824/ref=asap_bc?ie=UTF8), Alternate edition. ESRI press. **([Available from the library](https://helka.linneanet.fi/cgi-bin/Pwebrecon.cgi?Search_Arg=Python+scripting+for+ArcGIS&Search_Code=TALL&SL=None&PID=PNf7cMJlQOsRhdelSvtktIwh3_E04&SEQ=20160912155918&CNT=50&HIST=1&SEARCH_FROM_TITLES_PAGE=Y))**  
   - Diener, M. (2015) [Python Geospatial Analysis Cookbook: Over 60 recipes to work with topology, overlays, indoor routing, and web application analysis with Python](https://www.packtpub.com/big-data-and-business-intelligence/python-geospatial-analysis-cookbook). Packt Publishing.
-
-## GIS with 'pure' Python
   
 ## Course format
 
@@ -58,8 +52,53 @@ to relevant questions, some related plots, and/or Python codes you have written 
 on the laboratory exercises, however the laboratory summary write-ups that you submit must be completed individually and must clearly reflect your own work.
 
 ## Course topics by week
-
-Topics for Period II will be announced later.
+ *Lecture content, readings and due dates are subject to change*
  
-Course topics for Period I (basics of Python) can be found from here: 
- - [https://github.com/Python-for-geo-people/Course-information](https://github.com/Python-for-geo-people/Course-information)
+**Period I**
+ 
+ See: [https://github.com/Python-for-geo-people/Course-information](https://github.com/Python-for-geo-people/Course-information)
+ 
+**Period II**
+
+*links to lectures and exercises will be updated before each session*
+
+**31.10** - Introduction to Python GIS
+- **Lesson** - [Lesson 1: ]()
+- **Assignment** - [Exercise 1: ]()
+- Readings 
+
+**7.11** - Working with (Geo)DataFrames 
+- **Lesson** - [Lesson 2: ]()
+- **Assignment** - [Exercise 2: ]()
+- Readings -
+
+**14.11** - Geometric operations and geocoding
+- **Lesson** - [Lesson 3: ]()
+- **Assignment** - [Exercise 3: ]()
+- Readings - 
+
+**21.11** - Spatial queries 
+- **Lesson** - [Lesson 4: ]()
+- **Assignment** - [Exercise 4: ]()
+- Readings - 
+
+**28.11** -  Visualization: static and interactive maps 
+- **Lesson** - [Lesson 5: ]()
+- **Assignment** - [Exercise 5: ]() 
+- *Introduction to the final assignment either on Monday or Thursday!*
+- Readings - 
+
+
+
+**5.12** - Raster data processing in Python
+- **Lesson** - [Lesson 6: ]()
+- **Assignment** - [Exercise 6: ]()
+- Readings - Lawhead pp. 158-161, Chapter 6 & Chapter 8
+
+**12.12** - Using ArcGIS trough Python (the Arcpy-module) 
+- **Lesson** - [Lesson 7: ]()
+- **Assignment** - [Exercise 7: ]()
+- Readings - 
+
+**XX.XX** - Deadline for the final assignment
+ 
