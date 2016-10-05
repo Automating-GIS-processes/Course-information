@@ -52,11 +52,11 @@ to relevant questions, some related plots, and/or Python codes you have written 
 on the laboratory exercises, however the laboratory summary write-ups that you submit must be completed individually and must clearly reflect your own work.
 
 ## Course topics by week
- *Lecture content, readings and due dates are subject to change*
+ *Lesson content, readings and due dates are subject to change*
  
 **Period I**
  
- See: [https://github.com/Python-for-geo-people/Course-information](https://github.com/Python-for-geo-people/Course-information)
+See: [https://github.com/Python-for-geo-people/Course-information](https://github.com/Python-for-geo-people/Course-information)
  
 **Period II**
 
@@ -87,8 +87,6 @@ on the laboratory exercises, however the laboratory summary write-ups that you s
 - **Assignment** - [Exercise 5: ]() 
 - *Introduction to the final assignment either on Monday or Thursday!*
 - Readings - 
-
-
 
 **5.12** - Raster data processing in Python
 - **Lesson** - [Lesson 6: ]()
