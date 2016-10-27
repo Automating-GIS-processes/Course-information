@@ -102,5 +102,5 @@ See: [https://github.com/Python-for-geo-people/Course-information](https://githu
 - Readings - Lawhead pp. 158-161, Chapter 6 & Chapter 8
 
 
-**XX.XX** - Deadline for the final assignment
+**30.12.2016** - Deadline for the final assignment
  
