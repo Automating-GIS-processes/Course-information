@@ -92,15 +92,15 @@ See: [https://github.com/Python-for-geo-people/Course-information](https://githu
 - *Introduction to the final assignment either on Monday or Thursday!*
 - Readings - 
 
-**5.12** - Raster data processing in Python
-- **Lesson** - [Lesson 6: ]()
-- **Assignment** - [Exercise 6: ]()
-- Readings - Lawhead pp. 158-161, Chapter 6 & Chapter 8
+**5.12** -  NO LECTURE 
+- **Assignment** - [Exercise 6: Using ArcGIS trough Python ]()
+- Readings - 
 
-**12.12** - Using ArcGIS trough Python (the Arcpy-module) 
+**12.12** - Raster data processing in Python
 - **Lesson** - [Lesson 7: ]()
 - **Assignment** - [Exercise 7: ]()
-- Readings - 
+- Readings - Lawhead pp. 158-161, Chapter 6 & Chapter 8
+
 
 **XX.XX** - Deadline for the final assignment
  
