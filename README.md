@@ -93,7 +93,7 @@ See: [https://github.com/Python-for-geo-people/Course-information](https://githu
 - Readings - 
 
 **5.12** -  NO LECTURE 
-- **Assignment** - [Exercise 6: Using ArcGIS trough Python ]()
+- **[Demo on thurdsay 8.12: Using ArcGIS trough Python ]**()
 - Readings - 
 
 **12.12** - Raster data processing in Python
