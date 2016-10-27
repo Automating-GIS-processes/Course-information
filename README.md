@@ -97,8 +97,8 @@ See: [https://github.com/Python-for-geo-people/Course-information](https://githu
 - Readings - 
 
 **12.12** - Raster data processing in Python
-- **Lesson** - [Lesson 7: ]()
-- **Assignment** - [Exercise 7: ]()
+- **Lesson** - [Lesson 6: ]()
+- **Assignment** - [Exercise 6: ]()
 - Readings - Lawhead pp. 158-161, Chapter 6 & Chapter 8
 
 
