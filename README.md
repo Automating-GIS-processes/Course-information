@@ -103,6 +103,5 @@ See: [https://github.com/Python-for-geo-people/Course-information](https://githu
 - **Assignment** - [Exercise 6: ]()
 - Readings - Lawhead pp. 158-161, Chapter 6 & Chapter 8
 
-
 **30.12.2016** - Deadline for the final assignment
  
