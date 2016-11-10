@@ -66,14 +66,14 @@ See: [https://github.com/Python-for-geo-people/Course-information](https://githu
 
 **31.10** - GIS in Python; Spatial Data Model, Geometric Objects, Shapely
 
-[comment]: # (Link to Classroom Exercise 1 when it is done and course has started: https://classroom.github.com/assignment-invitations/c1252e0b9df12b27f1e39d557e918ae5)
+[comment]: # (Link to Classroom when it is done and course has started: https://classroom.github.com/assignment-invitations/c1252e0b9df12b27f1e39d557e918ae5)
 - **Lesson** - [Lesson 1: Introduction to Python GIS](https://github.com/Automating-GIS-processes/Lesson-1-Intro-Python-GIS)
 - **Assignment** - [Exercise 1: Working with Geometric Objects]() 
 - Readings - Lawhead, Chapter 4: Shapely & [Shapely documentation](http://toblerity.org/shapely/manual.html)
 
 **7.11** - Working with (Geo)DataFrames 
 
-[comment]: # (Link to Classroom Exercise 2 when it is done and week has started: https://classroom.github.com/assignment-invitations/f6f1d09cc0e970fcec4f3556b6754f4d)
+[comment]: # (Link to Classroom when it is done and week has started: https://classroom.github.com/assignment-invitations/f6f1d09cc0e970fcec4f3556b6754f4d)
 - **Lesson** - [Lesson 2: ]()
 - **Assignment** - [Exercise 2: ]()
 - Readings - Lawhead, Chapter 4 & [GeoPandas documentation](http://geopandas.org/data_structures.html#geodataframe)
@@ -94,15 +94,15 @@ See: [https://github.com/Python-for-geo-people/Course-information](https://githu
 - *Introduction to the final assignment either on Monday or Thursday!*
 - Readings - 
 
-**5.12** - Raster data processing in Python
+**5.12** -  NO LECTURE 
+- **Demo on thurdsay 8.12:**[ Using ArcGIS trough Python ]()
+- Readings - 
+
+**12.12** - Raster data processing in Python
 - **Lesson** - [Lesson 6: ]()
 - **Assignment** - [Exercise 6: ]()
 - Readings - Lawhead pp. 158-161, Chapter 6 & Chapter 8
 
-**12.12** - Using ArcGIS trough Python (the Arcpy-module) 
-- **Lesson** - [Lesson 7: ]()
-- **Assignment** - [Exercise 7: ]()
-- Readings - 
 
-**XX.XX** - Deadline for the final assignment
+**30.12.2016** - Deadline for the final assignment
  
