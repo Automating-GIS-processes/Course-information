@@ -74,8 +74,8 @@ See: [https://github.com/Python-for-geo-people/Course-information](https://githu
 **7.11** - Working with (Geo)DataFrames 
 
 [comment]: # (Link to Classroom when it is done and week has started: https://classroom.github.com/assignment-invitations/f6f1d09cc0e970fcec4f3556b6754f4d)
-- **Lesson** - [Lesson 2: ]()
-- **Assignment** - [Exercise 2: ]()
+- **Lesson** - [Lesson 2: Working with Geo-DataFrames in Pandas and Geopandas](https://github.com/Automating-GIS-processes/Lesson-2-Geo-DataFrames)
+- **Assignment** - [Exercise 2: Creating geometries in Geopandas](https://classroom.github.com/assignment-invitations/f6f1d09cc0e970fcec4f3556b6754f4d)
 - Readings - Lawhead, Chapter 4 & [GeoPandas documentation](http://geopandas.org/data_structures.html#geodataframe)
 
 **14.11** - Geometric operations and geocoding
