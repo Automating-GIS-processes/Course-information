@@ -79,7 +79,7 @@ See: [https://github.com/Python-for-geo-people/Course-information](https://githu
 - Readings - Lawhead, Chapter 4 & [GeoPandas documentation](http://geopandas.org/data_structures.html#geodataframe)
 
 **14.11** - Geometric operations and geocoding
-- **Lesson** - [Lesson 3: ]()
+- **Lesson** - [Lesson 3: Geocoding & Spatial Queries](https://github.com/Automating-GIS-processes/Lesson-3-Geocoding-Spatial-Queries#lesson-3-geocoding--spatial-queries)
 - **Assignment** - [Exercise 3: ]()
 - Readings - 
 
