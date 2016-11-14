@@ -80,7 +80,8 @@ See: [https://github.com/Python-for-geo-people/Course-information](https://githu
 
 **14.11** - Geometric operations and geocoding
 - **Lesson** - [Lesson 3: Geocoding & Spatial Queries](https://github.com/Automating-GIS-processes/Lesson-3-Geocoding-Spatial-Queries#lesson-3-geocoding--spatial-queries)
-- **Assignment** - [Exercise 3: ]()
+- **Assignment** - [Exercise 3: Geocoding and Spatial Join](https://classroom.github.com/assignment-invitations/dfc931a86070034e3b7e3908dc56f7cd)
+)
 - Readings - 
 
 **21.11** - Spatial queries 
