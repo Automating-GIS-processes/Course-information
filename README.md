@@ -84,8 +84,8 @@ See: [https://github.com/Python-for-geo-people/Course-information](https://githu
 - Readings - 
 
 **21.11** - Spatial queries 
-- **Lesson** - [Lesson 4: ]()
-- **Assignment** - [Exercise 4: ]()
+- **Lesson** - [Lesson 4: Classification and Overlay Analysis](https://github.com/Automating-GIS-processes/Lesson-4-Classification-overlay#lesson-4-data-classification-overlay-analysis)
+- **Assignment** - [Exercise 4](https://classroom.github.com/assignment-invitations/5160f5ebd9733fadc2ca156614c9baed)
 - Readings - 
 
 **28.11** -  Visualization: static and interactive maps 
