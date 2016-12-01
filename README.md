@@ -89,7 +89,7 @@ See: [https://github.com/Python-for-geo-people/Course-information](https://githu
 - Readings - 
 
 **28.11** -  Visualization: static and interactive maps 
-- **Lesson** - [Lesson 5: ]()
+- **Lesson** - [Lesson 5: Visualization](https://automating-gis-processes.github.io/2016/Lesson5-overview.html)
 - **Assignment** - [Exercise 5: ]() 
 - *Introduction to the final assignment either on Monday or Thursday!*
 - Readings - 
@@ -103,5 +103,5 @@ See: [https://github.com/Python-for-geo-people/Course-information](https://githu
 - **Assignment** - [Exercise 6: ]()
 - Readings - Lawhead pp. 158-161, Chapter 6 & Chapter 8
 
-**30.12.2016** - Deadline for the final assignment
+**6.1.2017** - Deadline for the final assignment
  
