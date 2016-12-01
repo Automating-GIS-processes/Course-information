@@ -91,10 +91,10 @@ See: [https://github.com/Python-for-geo-people/Course-information](https://githu
 **28.11** -  Visualization: static and interactive maps 
 - **Lesson** - [Lesson 5: Visualization](https://automating-gis-processes.github.io/2016/Lesson5-overview.html)
 - **Assignment** - [Exercise 5: Visualization](https://classroom.github.com/assignment-invitations/89827a0c6532a4910690c43c821445da) 
-- *Introduction to the final assignment either on Monday or Thursday!*
-- Readings - 
 
-**5.12** -  NO LECTURE 
+- *Introduction to the final assignment will be sent via email!*
+
+**5.12** -  NO LECTURE ON MONDAY!
 - **Demo on thurdsay 8.12:**[ Using ArcGIS trough Python ]()
 - Readings - 
 
