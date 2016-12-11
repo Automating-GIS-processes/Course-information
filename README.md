@@ -95,12 +95,12 @@ See: [https://github.com/Python-for-geo-people/Course-information](https://githu
 - *Introduction to the final assignment will be sent via email!*
 
 **5.12** -  NO LECTURE ON MONDAY!
-- **Demo on thurdsay 8.12:**[ Using ArcGIS trough Python ]()
+- **Demo on thurdsay 8.12:**[ Using ArcGIS trough Python ](https://automating-gis-processes.github.io/2016/Lesson6-arcpy.html#python-in-arcgis)
 - Readings - 
 
 **12.12** - Raster data processing in Python
-- **Lesson** - [Lesson 6: ]()
-- **Assignment** - [Exercise 6: ]()
+- **Lesson** - [Lesson 7: Basics of raster data processing with Python and Gdal ](https://github.com/Automating-GIS-processes/Lesson-7-Automating-Raster-Data-Processing/blob/master/Python-and-Gdal.ipynb)
+- **Assignment** - [Exercise 7: Delineating forest areas from canopy cover data](https://classroom.github.com/assignment-invitations/e59dfd42577e7fe6d98d19d70ecccf53)
 - Readings - Lawhead pp. 158-161, Chapter 6 & Chapter 8
 
 **6.1.2017** - Deadline for the final assignment
